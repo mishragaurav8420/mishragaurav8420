@@ -1,4 +1,4 @@
-![logo](https://github.com/mishragaurav8420/mishragaurav8420/blob/main/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.avif)
+![logo]<img src="https://github.com/mishragaurav8420/mishragaurav8420/blob/main/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.avif" alt="Logo" height="100" width="200">
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
