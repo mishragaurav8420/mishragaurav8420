@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/mishragaurav8420/mishragaurav8420/blob/main/bluecodeaflame_471__Gemstonedimendby_Lapidaryisolate_bright_cha_e2fe03de-0ed9-4a47-abf5-419d4eb778c3_01.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishragaurav8420&label=Profile%20views&color=0e75b6&style=flat" alt="mishragaurav8420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishragaurav8420" alt="mishragaurav8420" /></a> </p>
