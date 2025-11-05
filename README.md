@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Senior Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/mishragaurav8420/mishragaurav8420/blob/main/bluecodeaflame_419__create_a_simple_business_logo_of_a_fox_ssao_3539a381-2e2b-4250-98f0-dc5d561cd3d0_04.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishragaurav8420&label=Profile%20views&color=0e75b6&style=flat" alt="mishragaurav8420" /> </p>
 
